@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">QuizApp</string>
-    <string name="btn_verdadero">Verdadero</string>
-    <string name="btn_falso">Falso</string>
-</resources>
